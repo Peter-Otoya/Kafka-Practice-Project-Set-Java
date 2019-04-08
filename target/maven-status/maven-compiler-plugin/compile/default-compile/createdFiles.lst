@@ -1,0 +1,5 @@
+com\pedro\kafka\twitter\producer\TwitterProducer.class
+com\pedro\kafka\twitter\consumer\ElasticSearchConsumer.class
+com\pedro\kafka\my\utils\DefaultKafkaProducer.class
+com\pedro\kafka\my\utils\MessageLogUtils.class
+com\pedro\kafka\my\utils\MyKafkaConstants.class
