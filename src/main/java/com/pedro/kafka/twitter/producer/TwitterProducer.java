@@ -37,10 +37,10 @@ public class TwitterProducer {
 
     public static final Logger logger = LoggerFactory.getLogger(TwitterProducer.class.getName());
     
-    public static final String TWITTER_CONSUMER_KEY = "vnuOD1LUHDholS0OLjdQXCzFK";
-    public static final String TWITTER_CONSUMER_SECRET = "4psHwYzkLqHPffKX9BeUmM7oAluwjnqLY3KBL2RhG5XaSJocoZ";
-    public static final String TWITTER_TOKEN = "1082383482653945856-JzmLliREisSYoQI35uQUzuOcV6KX54";
-    public static final String TWITTER_SECRET = "OgX9qK0T0TenTShhd6IISAm1r4bzBcEQPQQmWo7es8uZ7";
+    public static final String TWITTER_CONSUMER_KEY = "";
+    public static final String TWITTER_CONSUMER_SECRET = "";
+    public static final String TWITTER_TOKEN = "";
+    public static final String TWITTER_SECRET = "";
     
     public static void main(String[] args) {
         new TwitterProducer().run();
