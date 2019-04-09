@@ -121,9 +121,9 @@ public class ElasticSearchConsumer {
      */
     public static RestHighLevelClient createClient() {
 
-        String hostname = "pedro-elastic-search-2759418908.eu-west-1.bonsaisearch.net";
-        String username = "66amo6188g";
-        String password = "tnclrzlfzv";
+        String hostname = "";
+        String username = "";
+        String password = "";
 
         final CredentialsProvider credentialsProvider
                 = new BasicCredentialsProvider();
